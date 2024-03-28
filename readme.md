@@ -1,6 +1,8 @@
 # A repo for experimenting with The Scrappy Project- DS and AI Course
 
-![Loading](https://tenor.com/view/joey-bubble-wrap-friends-punch-gif-5013961)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/chottuthejimmy/tsp_dsai/main/assests/intro.gif" />
+</p>
 
 ## About Me
 
